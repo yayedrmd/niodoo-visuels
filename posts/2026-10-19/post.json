@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-19T20:00:00",
+  "fuseau": "Europe/Paris",
+  "reseaux": ["facebook", "instagram"],
+  "sujet": "Comment ça marche, en 3 étapes (carrousel)",
+  "pilier": "pédagogie",
+  "legende": "Comment envoyer un colis au pays avec Niodoo ? C'est simple 👇\n\n1️⃣ Tu publies ton envoi : quoi, d'où, vers où, et le poids\n2️⃣ Un voyageur qui fait déjà le trajet le prend dans sa valise\n3️⃣ Ton proche récupère le colis à l'arrivée\n\nFini les heures à chercher un GP 🙌\nEnregistre ce post pour le retrouver le jour où tu en auras besoin 📌\n\n#Niodoo #GP #EnvoiColis #ColisSénégal #ColisAfrique #Dakar #Abidjan #Diaspora",
+  "images": [
+    {
+      "modele": "couverture",
+      "theme": "fonce",
+      "titre": "Envoyer un colis au pays avec Niodoo",
+      "accroche": "Comment ça marche, en 3 étapes."
+    },
+    {
+      "modele": "etape",
+      "theme": "clair",
+      "numero": 1,
+      "titre": "Publie ton envoi",
+      "texte": "Indique ce que tu envoies, d'où, vers où, et le poids de ton colis."
+    },
+    {
+      "modele": "etape",
+      "theme": "clair",
+      "numero": 2,
+      "titre": "Un voyageur accepte",
+      "texte": "Une personne qui fait déjà le trajet prend ton colis dans sa valise."
+    },
+    {
+      "modele": "etape",
+      "theme": "clair",
+      "numero": 3,
+      "titre": "Ton colis arrive",
+      "texte": "Ton proche le récupère à l'arrivée. Sans chercher un GP pendant des jours."
+    },
+    {
+      "modele": "affiche",
+      "theme": "fonce",
+      "centrer": true,
+      "titre": "Bientôt disponible.",
+      "accroche": "Abonne-toi pour être parmi les premiers à envoyer avec Niodoo.",
+      "slogan": "Envoyez loin, dépensez moins."
+    }
+  ]
+}

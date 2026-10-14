@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-21T20:00:00",
+  "fuseau": "Europe/Paris",
+  "reseaux": ["facebook", "instagram"],
+  "sujet": "Appel aux voyageurs : rentabiliser ses kilos en trop",
+  "pilier": "voyageurs",
+  "legende": "Tu rentres au pays bientôt et il te reste de la place dans ta valise ? ✈️🧳\n\nAvec Niodoo, tu pourras transporter les colis de personnes qui en ont besoin et rentabiliser tes kilos en trop, sur un trajet que tu fais déjà 💰\n\nParis, Bruxelles, Milan… Dakar, Abidjan, Bamako… Si tu fais le trajet, Niodoo est fait pour toi.\n\nTague un proche qui voyage souvent 👇\n\n#Niodoo #GP #Voyageurs #KilosEnTrop #Dakar #Abidjan #Bamako #Diaspora #AfriqueDeLOuest",
+  "images": [
+    {
+      "modele": "affiche",
+      "theme": "fonce",
+      "etiquette": "Pour les voyageurs",
+      "titre": "Tu pars au pays bientôt ?",
+      "accroche": "Tes kilos en trop peuvent te rapporter de l'argent.",
+      "texte": "Avec Niodoo, tu pourras transporter les colis de personnes qui en ont besoin, sur un trajet que tu fais déjà."
+    }
+  ]
+}

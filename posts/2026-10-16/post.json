@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-16T20:00:00",
+  "fuseau": "Europe/Paris",
+  "reseaux": ["facebook", "instagram"],
+  "sujet": "Présentation de Niodoo",
+  "pilier": "pédagogie",
+  "legende": "Envoyer un colis au pays sans courir après un GP pendant des jours ? 📦✈️\n\nNous, c'est Niodoo. Avec nous, ton colis voyagera avec quelqu'un qui fait déjà le trajet entre l'Europe et l'Afrique de l'Ouest. Tu envoies plus simplement, et le voyageur rentabilise ses kilos en trop.\n\nOn arrive très bientôt 🇸🇳 Abonne-toi pour être parmi les premiers 🔔\n\n#Niodoo #GP #ColisSénégal #EnvoiColis #Dakar #DiasporaSénégalaise #AfriqueDeLOuest #ParisDakar",
+  "images": [
+    {
+      "modele": "affiche",
+      "theme": "clair",
+      "etiquette": "Europe — Afrique",
+      "titre": "Ton colis voyage avec quelqu'un qui fait déjà le trajet.",
+      "texte": "Niodoo met en relation les personnes qui veulent envoyer un colis et les voyageurs qui ont des kilos en trop dans leur valise.",
+      "slogan": "Envoyez loin, dépensez moins."
+    }
+  ]
+}
