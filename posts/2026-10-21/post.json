@@ -4,15 +4,17 @@
   "reseaux": ["facebook", "instagram"],
   "sujet": "Appel aux voyageurs : rentabiliser ses kilos en trop",
   "pilier": "voyageurs",
-  "legende": "Tu rentres au pays bientôt et il te reste de la place dans ta valise ? ✈️🧳\n\nAvec Niodoo, tu pourras transporter les colis de personnes qui en ont besoin et rentabiliser tes kilos en trop, sur un trajet que tu fais déjà 💰\n\nParis, Bruxelles, Milan… Dakar, Abidjan, Bamako… Si tu fais le trajet, Niodoo est fait pour toi.\n\nTague un proche qui voyage souvent 👇\n\n#Niodoo #GP #Voyageurs #KilosEnTrop #Dakar #Abidjan #Bamako #Diaspora #AfriqueDeLOuest",
+  "photos_ia": true,
+  "legende": "Tu rentres au pays bientôt et il te reste de la place dans ta valise ? ✈️🧳\n\nSur Niodoo, tu publies ton trajet gratuitement, tu fixes ton prix au kilo et tu choisis les colis que tu acceptes. Le prix se négocie directement avec l'expéditeur 💬\n\nUne vérification d'identité, et tu peux publier ✅\n\nDakar, Abidjan, Bamako… Inscris-toi sur niodoo.net et tague un proche qui voyage souvent 👇\n\n#Niodoo #GP #Voyageurs #KilosEnTrop #Dakar #Abidjan #Bamako #Diaspora #AfriqueDeLOuest",
   "images": [
     {
       "modele": "affiche",
       "theme": "fonce",
+      "photo": "voyageur-aeroport",
+      "focus": "42% 50%",
       "etiquette": "Pour les voyageurs",
-      "titre": "Tu pars au pays bientôt ?",
-      "accroche": "Tes kilos en trop peuvent te rapporter de l'argent.",
-      "texte": "Avec Niodoo, tu pourras transporter les colis de personnes qui en ont besoin, sur un trajet que tu fais déjà."
+      "titre": "Tu pars au pays ? Tes kilos en trop peuvent te rapporter.",
+      "texte": "Publie ton trajet gratuitement, fixe ton prix au kilo et choisis les colis que tu acceptes."
     }
   ]
 }

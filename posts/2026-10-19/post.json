@@ -2,43 +2,61 @@
   "date": "2026-10-19T20:00:00",
   "fuseau": "Europe/Paris",
   "reseaux": ["facebook", "instagram"],
-  "sujet": "Comment ça marche, en 3 étapes (carrousel)",
+  "sujet": "Comment ça marche, en 4 étapes (carrousel)",
   "pilier": "pédagogie",
-  "legende": "Comment envoyer un colis au pays avec Niodoo ? C'est simple 👇\n\n1️⃣ Tu publies ton envoi : quoi, d'où, vers où, et le poids\n2️⃣ Un voyageur qui fait déjà le trajet le prend dans sa valise\n3️⃣ Ton proche récupère le colis à l'arrivée\n\nFini les heures à chercher un GP 🙌\nEnregistre ce post pour le retrouver le jour où tu en auras besoin 📌\n\n#Niodoo #GP #EnvoiColis #ColisSénégal #ColisAfrique #Dakar #Abidjan #Diaspora",
+  "photos_ia": true,
+  "legende": "Comment envoyer un colis au pays avec Niodoo ? 👇\n\n1️⃣ Tu publies ton colis, ou tu contactes un voyageur sur ton trajet (gratuit)\n2️⃣ Vous vous mettez d'accord : le voyageur fixe son prix, et ça se négocie\n3️⃣ Tu remets le colis, avec une photo d'inspection et un code\n4️⃣ Ton proche le récupère à l'arrivée avec son code\n\nFini les heures à chercher un GP 🙌\nEnregistre ce post pour le retrouver le jour où tu en auras besoin 📌\n\n#Niodoo #GP #EnvoiColis #ColisSénégal #ColisAfrique #Dakar #Abidjan #Diaspora",
   "images": [
     {
       "modele": "couverture",
       "theme": "fonce",
+      "photo": "envoi-en-famille",
+      "focus": "50% 30%",
       "titre": "Envoyer un colis au pays avec Niodoo",
-      "accroche": "Comment ça marche, en 3 étapes."
+      "accroche": "Comment ça marche, en 4 étapes."
     },
     {
       "modele": "etape",
       "theme": "clair",
+      "photo": "colis-photographie",
+      "focus": "48% 50%",
       "numero": 1,
-      "titre": "Publie ton envoi",
-      "texte": "Indique ce que tu envoies, d'où, vers où, et le poids de ton colis."
+      "titre": "Publie ton colis",
+      "texte": "Décris ce que tu envoies, ou contacte directement un voyageur sur ton trajet. C'est gratuit."
     },
     {
       "modele": "etape",
       "theme": "clair",
+      "photo": "suivi-canape",
+      "focus": "60% 40%",
       "numero": 2,
-      "titre": "Un voyageur accepte",
-      "texte": "Une personne qui fait déjà le trajet prend ton colis dans sa valise."
+      "titre": "Mettez-vous d'accord",
+      "texte": "Le voyageur affiche son prix au kilo. Tu proposes, il accepte ou contre-propose."
     },
     {
       "modele": "etape",
       "theme": "clair",
+      "photo": "remise-main-propre",
+      "focus": "50% 45%",
       "numero": 3,
-      "titre": "Ton colis arrive",
-      "texte": "Ton proche le récupère à l'arrivée. Sans chercher un GP pendant des jours."
+      "titre": "Remets ton colis",
+      "texte": "En main propre, avec une photo d'inspection et un code de remise."
+    },
+    {
+      "modele": "etape",
+      "theme": "clair",
+      "photo": "avion-decollage",
+      "focus": "55% 35%",
+      "numero": 4,
+      "titre": "Ton proche le reçoit",
+      "texte": "À l'arrivée, il donne son code et la livraison est confirmée."
     },
     {
       "modele": "affiche",
       "theme": "fonce",
       "centrer": true,
-      "titre": "Bientôt disponible.",
-      "accroche": "Abonne-toi pour être parmi les premiers à envoyer avec Niodoo.",
+      "titre": "Inscris-toi gratuitement sur niodoo.net",
+      "accroche": "Et l'application arrive dans quelques semaines.",
       "slogan": "Envoyez loin, dépensez moins."
     }
   ]

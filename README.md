@@ -10,18 +10,28 @@ Metricool en a besoin jusqu'à la publication.
 
 - `posts/AAAA-MM-JJ/post.json` : une publication (date, réseaux, légende, contenu des images)
 - `posts/AAAA-MM-JJ/1.jpg, 2.jpg…` : les images générées (1080 x 1350)
-- `outils/visuels.py` : le générateur d'images aux couleurs de Niodoo
+- `marque/` : l'avatar (logo officiel) et la couverture de la Page Facebook
+- `outils/visuels.py` : le générateur d'images
+- `outils/photos/` : les photos du site niodoo.net (images générées par IA)
+- `outils/polices/` : Manrope, la police du site (licence libre OFL)
 
-## Générer les images d'une publication
+## Identité
+
+Tout est repris du site niodoo.net : le logo (le N tracé d'un seul trait, un anneau
+à chaque bout, géométrie exacte de la planche de marque), la police Manrope et les
+couleurs (olive `#4f5a3f`, greige `#edeae0`, texte `#22261d`).
+
+## Générer les images
 
 ```
-python3 outils/visuels.py posts/2026-10-16/post.json
+python3 outils/visuels.py posts/2026-10-16/post.json   # les images d'une publication
+python3 outils/visuels.py --marque                     # avatar et couverture Facebook
 ```
 
 Modèles : `affiche`, `couverture`, `etape`, `liste`, `question`.
-Thèmes : `clair` (fond beige) et `fonce` (fond vert olive).
+Thèmes : `clair` (fond greige) et `fonce` (fond olive).
+Les modèles `affiche`, `couverture` et `etape` acceptent une photo de `outils/photos`.
 Le détail des champs est en haut de `outils/visuels.py`.
 
 Pas d'emoji ni de flèche dans le texte des images (la police ne les affiche pas).
-Pour utiliser le vrai logo à la place du dessin, dépose-le dans `outils/logo.png`
-(image carrée, fond transparent).
+Les posts qui utilisent les photos sont déclarés « générés par IA » sur Instagram.

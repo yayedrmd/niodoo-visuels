@@ -4,15 +4,17 @@
   "reseaux": ["facebook", "instagram"],
   "sujet": "Présentation de Niodoo",
   "pilier": "pédagogie",
-  "legende": "Envoyer un colis au pays sans courir après un GP pendant des jours ? 📦✈️\n\nNous, c'est Niodoo. Avec nous, ton colis voyagera avec quelqu'un qui fait déjà le trajet entre l'Europe et l'Afrique de l'Ouest. Tu envoies plus simplement, et le voyageur rentabilise ses kilos en trop.\n\nOn arrive très bientôt 🇸🇳 Abonne-toi pour être parmi les premiers 🔔\n\n#Niodoo #GP #ColisSénégal #EnvoiColis #Dakar #DiasporaSénégalaise #AfriqueDeLOuest #ParisDakar",
+  "photos_ia": true,
+  "legende": "Envoyer un colis au pays sans courir après un GP pendant des jours ? 📦✈️\n\nNous, c'est Niodoo. On te met en relation avec des voyageurs qui font déjà le trajet entre l'Europe et l'Afrique.\n\n✅ Voyageurs vérifiés\n💬 Le voyageur fixe son prix, et ça se négocie\n🆓 Inscription gratuite sur niodoo.net\n\n📲 Notre application arrive dans quelques semaines. Abonne-toi pour ne rien rater 🔔\n\n#Niodoo #GP #ColisSénégal #EnvoiColis #Dakar #DiasporaSénégalaise #AfriqueDeLOuest #ParisDakar",
   "images": [
     {
       "modele": "affiche",
       "theme": "clair",
+      "photo": "depart-avec-colis",
+      "focus": "58% 40%",
       "etiquette": "Europe — Afrique",
       "titre": "Ton colis voyage avec quelqu'un qui fait déjà le trajet.",
-      "texte": "Niodoo met en relation les personnes qui veulent envoyer un colis et les voyageurs qui ont des kilos en trop dans leur valise.",
-      "slogan": "Envoyez loin, dépensez moins."
+      "texte": "Voyageurs vérifiés, prix négociables, inscription gratuite."
     }
   ]
 }
