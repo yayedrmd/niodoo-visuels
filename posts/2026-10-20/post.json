@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-20T20:00:00",
+  "fuseau": "Europe/Paris",
+  "reseaux": ["facebook", "instagram"],
+  "sujet": "GP : tous tes clients et tes colis au même endroit",
+  "pilier": "côté GP",
+  "public": "GP",
+  "photos_ia": true,
+  "legende": "GP, et si tu arrêtais de reposter ton annonce dans 20 groupes ? 📢\n\nSur Niodoo, tu publies ton trajet une fois et les clients viennent à toi. Conversation, accord sur le prix, photo d'inspection, codes de remise et de livraison : tout est au même endroit 📦\n\nTon profil vérifié rassure tes clients et t'aide à en trouver de nouveaux ✅\n\nInscription gratuite sur niodoo.net\n\n#Niodoo #GP #GPDakar #GPAbidjan #GPBamako #EnvoiColis #Voyageurs #Diaspora",
+  "images": [
+    {"modele": "affiche", "theme": "fonce", "photo": "depart-avec-colis", "focus": "50% 45%", "etiquette": "Pour les GP", "titre": "Publie ton trajet une fois. Les clients viennent à toi.", "texte": "Conversation, prix, photo du colis et codes de remise : tout est au même endroit."},
+    {"modele": "liste", "theme": "clair", "etiquette": "Pourquoi les GP passent par Niodoo", "titre": "Moins d'appels, plus de clients", "points": ["Un seul trajet publié, visible par tous les expéditeurs", "Tu fixes ton prix au kilo", "Tu vois la photo de chaque colis avant d'accepter", "Codes de remise et de livraison", "Un profil vérifié qui rassure tes clients"]},
+    {"modele": "question", "theme": "fonce", "titre": "Tu es GP ?", "texte": "Crée ton profil gratuitement et publie ton prochain départ.", "bouton": "niodoo.net"}
+  ]
+}

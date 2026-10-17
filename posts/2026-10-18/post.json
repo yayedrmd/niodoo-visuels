@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-18T20:00:00",
+  "fuseau": "Europe/Paris",
+  "reseaux": ["facebook", "instagram"],
+  "sujet": "Jeunes voyageurs : ta valise peut payer une partie de ton billet",
+  "pilier": "gagner en voyageant",
+  "public": "jeunes",
+  "photos_ia": true,
+  "legende": "Ton billet coûte cher ? Ta valise est à moitié vide ? 🧳\n\nTes kilos libres peuvent payer une partie de ton voyage. Tu publies ton trajet, des gens te confient leurs colis, tu fixes ton prix. C'est gratuit ✈️\n\nSwipe pour voir comment ça marche 👉\nEnregistre ce post pour ton prochain voyage 📌\n\n#Niodoo #GagnerEnVoyageant #VoyagerMoinsCher #BonPlanVoyage #Etudiant #Voyage #KilosEnTrop #BilletDAvion",
+  "images": [
+    {"modele": "couverture", "theme": "fonce", "photo": "voyageur-aeroport", "focus": "45% 45%", "etiquette": "Pour les jeunes voyageurs", "titre": "Ta valise peut payer une partie de ton billet.", "accroche": "Voici comment, en 4 étapes."},
+    {"modele": "etape", "theme": "clair", "photo": "bagage-enregistre", "focus": "50% 50%", "numero": "1", "titre": "Publie ton trajet", "texte": "Ta date, ta destination, tes kilos libres. C'est gratuit et ça prend deux minutes."},
+    {"modele": "etape", "theme": "clair", "photo": "colis-photographie", "focus": "50% 50%", "numero": "2", "titre": "Choisis tes colis", "texte": "Tu vois la photo de chaque colis avant d'accepter. Tu ne prends que ce qui te convient."},
+    {"modele": "etape", "theme": "clair", "photo": "remise-main-propre", "focus": "50% 50%", "numero": "3", "titre": "Fixe ton prix", "texte": "C'est toi qui décides de ton prix au kilo. Il se négocie dans la conversation."},
+    {"modele": "etape", "theme": "clair", "photo": "avion-decollage", "focus": "50% 50%", "numero": "4", "titre": "Voyage moins cher", "texte": "Tes kilos libres financent une partie de ton billet."},
+    {"modele": "question", "theme": "fonce", "titre": "Tu pars bientôt ?", "texte": "Publie ton trajet gratuitement sur niodoo.net", "bouton": "niodoo.net"}
+  ]
+}

@@ -1,11 +1,14 @@
 {
   "date": "2026-10-21T20:00:00",
   "fuseau": "Europe/Paris",
-  "reseaux": ["facebook", "instagram"],
+  "reseaux": [
+    "facebook",
+    "instagram"
+  ],
   "sujet": "Appel aux voyageurs : rentabiliser ses kilos en trop",
   "pilier": "voyageurs",
   "photos_ia": true,
-  "legende": "Tu rentres au pays bientôt et il te reste de la place dans ta valise ? ✈️🧳\n\nSur Niodoo, tu publies ton trajet gratuitement, tu fixes ton prix au kilo et tu choisis les colis que tu acceptes. Le prix se négocie directement avec l'expéditeur 💬\n\nUne vérification d'identité, et tu peux publier ✅\n\nDakar, Abidjan, Bamako… Inscris-toi sur niodoo.net et tague un proche qui voyage souvent 👇\n\n#Niodoo #GP #Voyageurs #KilosEnTrop #Dakar #Abidjan #Bamako #Diaspora #AfriqueDeLOuest",
+  "legende": "Tu pars bientôt et il te reste de la place dans ta valise ? ✈️🧳\n\nSur Niodoo, tu publies ton trajet gratuitement, tu fixes ton prix au kilo et tu choisis les colis que tu acceptes. Le prix se négocie directement avec l'expéditeur 💬\n\nUne vérification d'identité, et tu peux publier ✅\n\nDakar, Abidjan, Bamako, Douala, Conakry… plus de 30 pays d'Afrique et toute l'Europe. Inscris-toi sur niodoo.net et tague un proche qui voyage souvent 👇\n\n#Niodoo #GP #Voyageurs #KilosEnTrop #GagnerEnVoyageant #Dakar #Abidjan #Diaspora",
   "images": [
     {
       "modele": "affiche",
@@ -13,7 +16,7 @@
       "photo": "voyageur-aeroport",
       "focus": "42% 50%",
       "etiquette": "Pour les voyageurs",
-      "titre": "Tu pars au pays ? Tes kilos en trop peuvent te rapporter.",
+      "titre": "Tu pars bientôt ? Tes kilos en trop peuvent te rapporter.",
       "texte": "Publie ton trajet gratuitement, fixe ton prix au kilo et choisis les colis que tu acceptes."
     }
   ]

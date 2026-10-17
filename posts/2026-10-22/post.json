@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-22T20:00:00",
+  "fuseau": "Europe/Paris",
+  "reseaux": ["facebook", "instagram"],
+  "sujet": "Destinations : plus de 30 pays d'Afrique et toute l'Europe",
+  "pilier": "pédagogie",
+  "public": "diaspora",
+  "photos_ia": true,
+  "legende": "Dakar, Abidjan, Bamako… mais pas seulement 🌍\n\nSur Niodoo, tu peux publier un trajet ou un colis entre toute l'Europe et plus de 30 pays d'Afrique : Sénégal, Côte d'Ivoire, Mali, Guinée, Cameroun, Congo, Bénin, Togo, Maroc et bien d'autres.\n\nUne nouvelle ligne s'ouvre dès qu'un voyageur publie son trajet ✈️\n\nSwipe pour voir la liste 👉 et tague quelqu'un qui envoie souvent des colis 👇\n\n#Niodoo #EnvoiColis #Diaspora #ColisSénégal #ColisAfrique #Dakar #Abidjan #Douala",
+  "images": [
+    {"modele": "couverture", "theme": "fonce", "photo": "envoi-en-famille", "focus": "50% 45%", "etiquette": "Destinations", "titre": "Où peux-tu envoyer avec Niodoo ?", "accroche": "Plus de 30 pays d'Afrique et toute l'Europe."},
+    {"modele": "liste", "theme": "clair", "etiquette": "Afrique de l'Ouest", "titre": "16 pays", "points": ["Sénégal, Mali, Côte d'Ivoire, Guinée", "Guinée-Bissau, Gambie, Mauritanie, Cap-Vert", "Burkina Faso, Niger, Bénin, Togo", "Ghana, Nigeria, Sierra Leone, Liberia"]},
+    {"modele": "liste", "theme": "clair", "etiquette": "Le reste de l'Afrique", "titre": "15 pays", "points": ["Cameroun, Gabon, Congo, RD Congo", "Centrafrique, Tchad", "Maroc, Algérie, Tunisie, Libye", "Kenya, Éthiopie, Rwanda, Afrique du Sud, Madagascar"]},
+    {"modele": "liste", "theme": "clair", "etiquette": "En Europe", "titre": "Toute l'Europe", "points": ["France, Belgique, Suisse, Luxembourg", "Espagne, Portugal, Italie, Allemagne", "Pays-Bas, Royaume-Uni, Irlande", "Et la plupart des autres pays d'Europe"]},
+    {"modele": "question", "theme": "fonce", "titre": "Ta ville est peut-être déjà là", "texte": "Une ligne s'ouvre dès qu'un voyageur publie son trajet.", "bouton": "niodoo.net"}
+  ]
+}
