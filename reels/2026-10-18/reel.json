@@ -1,0 +1,7 @@
+{"duree": 2.6, "images": [
+ {"photo": "voyageur-aeroport", "titre": "POV : ta valise paie une partie de ton billet", "texte": "Tu pars bientôt ? Regarde."},
+ {"photo": "bagage-enregistre", "titre": "Tu publies ton trajet", "texte": "Gratuit, en deux minutes."},
+ {"photo": "colis-photographie", "titre": "Tu choisis tes colis", "texte": "Photo de chaque colis avant d'accepter."},
+ {"photo": "remise-main-propre", "titre": "Tu fixes ton prix", "texte": "Au kilo, négociable dans la conversation."},
+ {"titre": "Voyage moins cher avec Niodoo", "texte": "Publie ton trajet gratuitement.", "bouton": "niodoo.net", "fonce": true}
+]}

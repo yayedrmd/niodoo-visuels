@@ -1,0 +1,7 @@
+{"duree": 2.4, "images": [
+ {"photo": "envoi-en-famille", "titre": "Où envoyer un colis avec Niodoo ?", "texte": "Plus de 30 pays d'Afrique et toute l'Europe."},
+ "../../stories/bulles/3-Destinations-2.jpg",
+ "../../stories/bulles/3-Destinations-3.jpg",
+ "../../stories/bulles/3-Destinations-4.jpg",
+ {"titre": "Ta ville est peut-être déjà là", "texte": "Une ligne s'ouvre dès qu'un voyageur publie son trajet.", "bouton": "niodoo.net", "fonce": true}
+]}

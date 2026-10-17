@@ -1,18 +1,21 @@
 {
   "date": "2026-10-19T20:00:00",
   "fuseau": "Europe/Paris",
-  "reseaux": ["facebook", "instagram"],
+  "reseaux": [
+    "facebook",
+    "instagram"
+  ],
   "sujet": "Comment ça marche, en 4 étapes (carrousel)",
   "pilier": "pédagogie",
   "photos_ia": true,
-  "legende": "Comment envoyer un colis au pays avec Niodoo ? 👇\n\n1️⃣ Tu publies ton colis, ou tu contactes un voyageur sur ton trajet (gratuit)\n2️⃣ Vous vous mettez d'accord : le voyageur fixe son prix, et ça se négocie\n3️⃣ Tu remets le colis, avec une photo d'inspection et un code\n4️⃣ Ton proche le récupère à l'arrivée avec son code\n\nFini les heures à chercher un GP 🙌\nEnregistre ce post pour le retrouver le jour où tu en auras besoin 📌\n\n#Niodoo #GP #EnvoiColis #ColisSénégal #ColisAfrique #Dakar #Abidjan #Diaspora",
+  "legende": "Comment envoyer un colis à tes proches avec Niodoo ? 👇\n\n1️⃣ Tu publies ton colis, ou tu contactes un voyageur sur ton trajet (gratuit)\n2️⃣ Vous vous mettez d'accord : le voyageur fixe son prix, et ça se négocie\n3️⃣ Tu remets le colis, avec une photo d'inspection et un code\n4️⃣ Ton proche le récupère à l'arrivée avec son code\n\nFini les heures à chercher un GP 🙌\nEnregistre ce post pour le retrouver le jour où tu en auras besoin 📌\n\n#Niodoo #GP #EnvoiColis #ColisSénégal #ColisAfrique #Dakar #Abidjan #Diaspora",
   "images": [
     {
       "modele": "couverture",
       "theme": "fonce",
       "photo": "envoi-en-famille",
       "focus": "50% 30%",
-      "titre": "Envoyer un colis au pays avec Niodoo",
+      "titre": "Envoyer un colis à tes proches avec Niodoo",
       "accroche": "Comment ça marche, en 4 étapes."
     },
     {
