@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-21T13:00:00",
+  "fuseau": "Europe/Paris",
+  "reseaux": [
+    "facebook",
+    "instagram"
+  ],
+  "sujet": "Gagner de l'argent sur un trajet entre deux pays d'Afrique",
+  "pilier": "tous les trajets",
+  "public": "voyageurs et GP en Afrique",
+  "photos_ia": true,
+  "legende": "Dakar → Abidjan, Bamako → Casablanca, Douala → Libreville… ton trajet compte aussi 🌍\n\nTu voyages d'un pays africain à un autre ? Sur Niodoo, tu publies ton trajet, tu choisis les colis que tu prends et tu fixes ton prix au kilo. Ça se négocie avec l'expéditeur, et c'est gratuit.\n\nTu as un trajet ? Peu importe où, tes kilos libres peuvent te rapporter ✈️ niodoo.net\n\n#Niodoo #GagnerEnVoyageant #GP #DakarAbidjan #Afrique #Voyage #EnvoiColis #KilosEnTrop",
+  "images": [
+    {
+      "modele": "affiche",
+      "theme": "clair",
+      "photo": "remise-main-propre",
+      "focus": "50% 45%",
+      "etiquette": "Entre deux pays d'Afrique",
+      "titre": "Dakar, Abidjan, Bamako : ton trajet peut te rapporter.",
+      "texte": "Publie ton voyage, choisis tes colis et fixe ton prix au kilo. C'est gratuit."
+    }
+  ]
+}

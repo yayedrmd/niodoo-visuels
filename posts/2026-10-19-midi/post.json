@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-19T13:00:00",
+  "fuseau": "Europe/Paris",
+  "reseaux": [
+    "facebook",
+    "instagram"
+  ],
+  "sujet": "Envoyer un colis de l'Afrique vers l'Europe",
+  "pilier": "tous les trajets",
+  "public": "diaspora et familles en Afrique",
+  "photos_ia": true,
+  "legende": "Ta famille est à Dakar et toi à Paris ? 📦\n\nAvec Niodoo, ça marche aussi dans ce sens-là : tes proches publient leur colis, un voyageur qui fait le trajet vers l'Europe le prend dans sa valise, et tu le récupères avec ton code.\n\n✅ Voyageurs vérifiés\n💬 Le prix se négocie avec le voyageur\n\nEnvoie ce post à quelqu'un de ta famille 👇 Inscription gratuite sur niodoo.net\n\n#Niodoo #EnvoiColis #DakarParis #Diaspora #ColisSénégal #Abidjan #Bamako #Famille",
+  "images": [
+    {
+      "modele": "affiche",
+      "theme": "clair",
+      "photo": "suivi-canape",
+      "focus": "60% 40%",
+      "etiquette": "De l'Afrique vers l'Europe",
+      "titre": "Ta famille veut t'envoyer un colis ?",
+      "texte": "Un voyageur qui fait le trajet vers l'Europe peut le prendre. Tu le récupères avec ton code."
+    }
+  ]
+}

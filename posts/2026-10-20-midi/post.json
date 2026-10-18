@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-20T13:00:00",
+  "fuseau": "Europe/Paris",
+  "reseaux": [
+    "facebook",
+    "instagram"
+  ],
+  "sujet": "Gagner de l'argent sur un trajet entre deux villes d'Europe",
+  "pilier": "tous les trajets",
+  "public": "jeunes voyageurs",
+  "photos_ia": true,
+  "legende": "Paris → Bruxelles, Lyon → Milan, Lille → Londres… ton prochain week-end peut te rapporter 🚆✈️\n\nSur Niodoo, il n'y a pas que les longs trajets. Tu publies ton voyage, en train, en bus ou en avion, des gens te confient leurs colis et tu fixes ton prix. C'est gratuit.\n\nTague un pote qui bouge tout le temps 👇\n\n#Niodoo #GagnerEnVoyageant #VoyagerMoinsCher #BonPlanVoyage #Etudiant #Erasmus #Weekend #Voyage",
+  "images": [
+    {
+      "modele": "affiche",
+      "theme": "fonce",
+      "photo": "bagage-enregistre",
+      "focus": "50% 55%",
+      "etiquette": "Entre deux villes d'Europe",
+      "titre": "Ton week-end à Bruxelles peut te rapporter.",
+      "texte": "En train, en bus ou en avion : publie ton trajet, prends des colis et fixe ton prix."
+    }
+  ]
+}
