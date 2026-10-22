@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-26T20:00:00",
+  "fuseau": "Europe/Paris",
+  "reseaux": [
+    "facebook",
+    "instagram"
+  ],
+  "sujet": "GP : un profil vérifié qui parle pour toi",
+  "pilier": "côté GP",
+  "public": "GP",
+  "photos_ia": true,
+  "legende": "GP, ton sérieux mérite d'être vu ✅\n\nSur Niodoo, ta pièce d'identité est vérifiée et ça se voit sur ton profil. Tes trajets, tes conversations, tes accords sur le prix, la photo d'inspection et les codes de remise : tout est rangé au même endroit.\n\nTes clients savent à qui ils confient leur colis, et toi tu passes moins de temps au téléphone.\n\nCrée ton profil gratuitement sur niodoo.net et publie ton prochain départ.\n\n#Niodoo #GP #GPDakar #GPAbidjan #GPParis #EnvoiColis #ProfilVérifié #Voyageurs",
+  "images": [
+    {
+      "modele": "affiche",
+      "theme": "clair",
+      "photo": "remise-main-propre",
+      "focus": "50% 45%",
+      "etiquette": "Pour les GP",
+      "titre": "Ton profil vérifié parle pour toi.",
+      "texte": "Tes clients savent à qui ils confient leur colis. Toi, tu gagnes du temps."
+    }
+  ]
+}

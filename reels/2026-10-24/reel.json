@@ -1,0 +1,31 @@
+{
+ "duree": 2.6,
+ "images": [
+  {
+   "photo": "bagage-enregistre",
+   "titre": "3 choses à savoir si tu pars bientôt",
+   "texte": "Ta valise peut te rapporter. Regarde."
+  },
+  {
+   "titre": "1. C'est gratuit",
+   "texte": "Inscription, trajet publié, discussion : tu ne paies rien.",
+   "fonce": false
+  },
+  {
+   "titre": "2. Tu choisis tes colis",
+   "texte": "Tu vois la photo de chaque colis avant d'accepter.",
+   "fonce": true
+  },
+  {
+   "titre": "3. Tu fixes ton prix",
+   "texte": "Au kilo, et ça se négocie dans la conversation.",
+   "fonce": false
+  },
+  {
+   "titre": "Rentabilise ton voyage",
+   "texte": "Publie ton trajet gratuitement.",
+   "bouton": "niodoo.net",
+   "fonce": true
+  }
+ ]
+}

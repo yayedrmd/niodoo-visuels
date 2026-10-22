@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-29T20:00:00",
+  "fuseau": "Europe/Paris",
+  "reseaux": [
+    "facebook",
+    "instagram"
+  ],
+  "sujet": "Bientôt sur Niodoo : application iPhone, points relais, livraison à domicile",
+  "pilier": "nouveautés bientôt disponibles",
+  "public": "diaspora",
+  "photos_ia": true,
+  "legende": "Ce qui arrive bientôt sur Niodoo 👀\n\n📲 L'application iPhone, dans quelques semaines\n📍 Des points relais dans plusieurs pays\n🏠 La livraison à domicile\n\nEn attendant, tout marche déjà sur niodoo.net : tu t'inscris gratuitement, tu publies ton colis ou ton trajet et tu discutes avec le voyageur, en quelques minutes.\n\nAbonne-toi pour être prévenu le jour où ça sort 🔔\n\n#Niodoo #EnvoiColis #Diaspora #ColisSénégal #Nouveauté #ApplicationMobile #Voyageurs #GP",
+  "images": [
+    {
+      "modele": "couverture",
+      "theme": "fonce",
+      "photo": "suivi-canape",
+      "focus": "60% 40%",
+      "etiquette": "Bientôt sur Niodoo",
+      "titre": "Ce qui arrive bientôt",
+      "accroche": "Trois nouveautés pour envoyer encore plus simplement."
+    },
+    {
+      "modele": "liste",
+      "theme": "clair",
+      "etiquette": "Bientôt disponible",
+      "titre": "Les nouveautés",
+      "points": [
+        "L'application iPhone, dans quelques semaines",
+        "Des points relais dans plusieurs pays",
+        "La livraison à domicile"
+      ]
+    },
+    {
+      "modele": "question",
+      "theme": "fonce",
+      "titre": "Et dès maintenant ?",
+      "texte": "Inscription gratuite, colis ou trajet publié en quelques minutes.",
+      "bouton": "niodoo.net"
+    }
+  ]
+}

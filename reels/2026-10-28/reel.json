@@ -1,0 +1,31 @@
+{
+ "duree": 2.6,
+ "images": [
+  {
+   "photo": "depart-avec-colis",
+   "titre": "Ta valise est à moitié vide ?",
+   "texte": "Ces kilos peuvent payer une partie de ton billet."
+  },
+  {
+   "photo": "colis-photographie",
+   "titre": "Quelqu'un a un colis pour ta destination",
+   "texte": "Paris, Dakar, Bruxelles, Abidjan, Milan : peu importe le trajet."
+  },
+  {
+   "photo": "remise-main-propre",
+   "titre": "Tu le prends, tu fixes ton prix",
+   "texte": "Voyageur vérifié, photo du colis, codes de remise."
+  },
+  {
+   "titre": "Voyage moins cher",
+   "texte": "Tes kilos libres financent une partie de ton billet.",
+   "fonce": false
+  },
+  {
+   "titre": "Publie ton trajet",
+   "texte": "C'est gratuit et ça prend deux minutes.",
+   "bouton": "niodoo.net",
+   "fonce": true
+  }
+ ]
+}

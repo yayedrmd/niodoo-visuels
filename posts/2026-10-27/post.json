@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-27T20:00:00",
+  "fuseau": "Europe/Paris",
+  "reseaux": [
+    "facebook",
+    "instagram"
+  ],
+  "sujet": "Conseils pratiques : bien préparer son colis et objets refusés (carrousel)",
+  "pilier": "conseils pratiques",
+  "public": "diaspora",
+  "photos_ia": true,
+  "legende": "Avant de confier ton colis, 2 minutes pour bien le préparer 📦\n\nUn colis bien emballé, c'est un voyageur rassuré et un accord plus rapide. Et certains objets ne voyagent pas sur Niodoo : argent liquide, médicaments, liquides, produits périssables, produits dangereux et contrefaçons.\n\nSwipe pour la check-list 👉 et enregistre-la pour ton prochain envoi 📌\n\nLa liste complète est sur niodoo.net\n\n#Niodoo #EnvoiColis #ConseilsColis #Diaspora #ColisSénégal #ColisCôteDIvoire #Emballage #Voyage",
+  "images": [
+    {
+      "modele": "couverture",
+      "theme": "fonce",
+      "photo": "envoi-en-famille",
+      "focus": "50% 40%",
+      "etiquette": "Conseils pratiques",
+      "titre": "Ton colis est prêt à voyager ?",
+      "accroche": "La check-list avant de le confier."
+    },
+    {
+      "modele": "liste",
+      "theme": "clair",
+      "etiquette": "Bien le préparer",
+      "titre": "Un colis prêt à partir",
+      "points": [
+        "Un carton solide, bien fermé",
+        "Le poids exact, pesé avant de publier",
+        "Les objets fragiles bien protégés",
+        "Le nom et le numéro du destinataire"
+      ]
+    },
+    {
+      "modele": "liste",
+      "theme": "clair",
+      "etiquette": "Objets refusés",
+      "titre": "Ce qui ne voyage pas",
+      "points": [
+        "Argent liquide",
+        "Médicaments",
+        "Liquides et produits périssables",
+        "Produits dangereux",
+        "Contrefaçons"
+      ]
+    },
+    {
+      "modele": "liste",
+      "theme": "clair",
+      "etiquette": "Bon à savoir",
+      "titre": "Au-delà de 400 euros",
+      "points": [
+        "Le colis est divisé en deux",
+        "La photo d'inspection est prise au départ",
+        "Le voyageur voit ce qu'il transporte avant d'accepter"
+      ]
+    },
+    {
+      "modele": "question",
+      "theme": "fonce",
+      "titre": "Ton colis est prêt ?",
+      "texte": "Publie-le gratuitement et trouve un voyageur sur ton trajet.",
+      "bouton": "niodoo.net"
+    }
+  ]
+}

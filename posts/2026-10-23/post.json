@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-23T20:00:00",
+  "fuseau": "Europe/Paris",
+  "reseaux": [
+    "facebook",
+    "instagram"
+  ],
+  "sujet": "Vacances de la Toussaint : tes kilos libres peuvent payer une partie du billet",
+  "pilier": "gagner en voyageant",
+  "public": "jeunes",
+  "photos_ia": true,
+  "legende": "Tu pars pendant les vacances ? ✈️\n\nLyon → Casablanca, Abidjan → Dakar, Paris → Madrid… peu importe ton trajet, la place qui reste dans ta valise peut t'aider à payer ton billet.\n\nSur Niodoo, tu publies ton trajet, des gens te confient leurs colis et c'est toi qui fixes ton prix. L'inscription est gratuite.\n\nPublie ton trajet sur niodoo.net avant de partir 🧳\n\n#Niodoo #GagnerEnVoyageant #VoyagerMoinsCher #BonPlanVoyage #VacancesToussaint #Etudiant #KilosEnTrop #Voyage",
+  "images": [
+    {
+      "modele": "affiche",
+      "theme": "fonce",
+      "photo": "avion-decollage",
+      "focus": "50% 40%",
+      "etiquette": "Vacances de la Toussaint",
+      "titre": "Tu pars pendant les vacances ? Ta valise peut t'aider à payer le billet.",
+      "texte": "Publie ton trajet, prends des colis et fixe ton prix. C'est gratuit."
+    }
+  ]
+}

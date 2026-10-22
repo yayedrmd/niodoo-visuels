@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-28T20:00:00",
+  "fuseau": "Europe/Paris",
+  "reseaux": [
+    "facebook",
+    "instagram"
+  ],
+  "sujet": "Tous les trajets : peu importe où tu vas, tes kilos libres peuvent te rapporter",
+  "pilier": "gagner en voyageant",
+  "public": "jeunes",
+  "photos_ia": true,
+  "legende": "Tu as un trajet ? Peu importe où, tes kilos libres peuvent te rapporter 🧳\n\nAbidjan → Dakar, Madrid → Paris, Casablanca → Bruxelles, Bamako → Lomé… Sur Niodoo, il n'y a pas de « bon » trajet : il y a juste quelqu'un qui a besoin d'envoyer un colis là où tu vas.\n\nTu publies ton trajet, tu choisis tes colis et tu fixes ton prix. C'est gratuit.\n\nEnvoie ce post à un pote qui part bientôt 👇 niodoo.net\n\n#Niodoo #GagnerEnVoyageant #RentabiliseTonVoyage #VoyagerMoinsCher #BonPlanVoyage #Etudiant #Voyage #KilosEnTrop",
+  "images": [
+    {
+      "modele": "affiche",
+      "theme": "clair",
+      "photo": "depart-avec-colis",
+      "focus": "55% 40%",
+      "etiquette": "Tous les trajets",
+      "titre": "Peu importe où tu vas, quelqu'un a un colis pour toi.",
+      "texte": "Abidjan, Madrid, Casablanca, Bruxelles, Bamako : publie ton trajet et fixe ton prix."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-25T20:00:00",
+  "fuseau": "Europe/Paris",
+  "reseaux": [
+    "facebook",
+    "instagram"
+  ],
+  "sujet": "Engagement : ton prochain trajet, en commentaire",
+  "pilier": "engagement",
+  "public": "jeunes",
+  "photos_ia": false,
+  "legende": "Ton prochain trajet, c'est quoi ? 👇\n\nDis-le nous en commentaire : la ville de départ et la destination. Paris, Bamako, Bruxelles, Abidjan, Milan… tous les trajets comptent.\n\nSur Niodoo, chaque trajet peut rapporter : tu publies tes kilos libres, tu fixes ton prix, et des gens près de chez toi te confient leurs colis.\n\nTague le pote avec qui tu voyages 👀 Inscription gratuite sur niodoo.net\n\n#Niodoo #GagnerEnVoyageant #VoyagerMoinsCher #BonPlanVoyage #Etudiant #Voyage #Trajet #KilosEnTrop",
+  "images": [
+    {
+      "modele": "question",
+      "theme": "fonce",
+      "titre": "Ton prochain trajet, c'est quoi ?",
+      "texte": "Dis-le nous en commentaire. Tous les trajets peuvent rapporter.",
+      "bouton": "niodoo.net"
+    }
+  ]
+}

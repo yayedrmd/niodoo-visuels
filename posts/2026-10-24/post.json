@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-24T20:00:00",
+  "fuseau": "Europe/Paris",
+  "reseaux": [
+    "facebook",
+    "instagram"
+  ],
+  "sujet": "Confiance : les 4 garanties qui accompagnent chaque colis (carrousel)",
+  "pilier": "confiance",
+  "public": "diaspora",
+  "photos_ia": true,
+  "legende": "Confier un colis à quelqu'un que tu ne connais pas ? Voici ce qui change avec Niodoo 🤝\n\n✅ Chaque voyageur fait vérifier sa pièce d'identité avant de publier\n📸 Une photo d'inspection du colis au départ\n🔑 Un code de remise, puis un code secret pour ton proche à l'arrivée\n\nQue ton colis parte de Dakar vers Marseille ou de Bruxelles vers Douala, c'est le même parcours.\n\nEnregistre ce post et partage-le à quelqu'un qui hésite encore 📌\n\n#Niodoo #EnvoiColis #Diaspora #ColisSénégal #VoyageursVérifiés #Confiance #Dakar #Douala",
+  "images": [
+    {
+      "modele": "couverture",
+      "theme": "fonce",
+      "photo": "colis-photographie",
+      "focus": "50% 45%",
+      "etiquette": "Confiance",
+      "titre": "Ce qui protège ton colis, du départ à l'arrivée",
+      "accroche": "4 garanties, à chaque envoi."
+    },
+    {
+      "modele": "liste",
+      "theme": "clair",
+      "etiquette": "À chaque envoi",
+      "titre": "4 garanties pour ton colis",
+      "points": [
+        "Un voyageur dont la pièce d'identité est vérifiée",
+        "Une photo d'inspection du colis au départ",
+        "Un code de remise quand tu le confies",
+        "Un code secret pour ton proche à l'arrivée"
+      ]
+    },
+    {
+      "modele": "question",
+      "theme": "fonce",
+      "titre": "Tu as un colis à envoyer ?",
+      "texte": "Publie-le gratuitement et trouve un voyageur sur ton trajet.",
+      "bouton": "niodoo.net"
+    }
+  ]
+}
